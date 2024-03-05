@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firoz Al Hasan</h1>
-<h3 align="center">A passionate frontend developer, Specialized in RectJS</h3>
+<h3 align="center">A passionate frontend developer, Specialized in ReactJS</h3>
 
 - 🔭 I’m currently working on **ReactJS Project**
 
